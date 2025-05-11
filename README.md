@@ -149,5 +149,5 @@ CREATE TABLE layoffs_staging2 (
 📧 Contact
 [selvavignesh] - selvamarshall13@gmail.com
 ---
-feel free to star , fork, pull and improve the code...
+feel free to star ⭐ , fork 🍴, pull 😄 and improve the code...
 
